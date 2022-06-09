@@ -1,5 +1,5 @@
 # Reviving Bach
-Music generation using various approaches and neural networks
+Music generation using various approaches and neural networks, by Belle Liu and Mike Wendels
 
 ## Training Neural Networks
 
