@@ -1,0 +1,2 @@
+class NotAgainError(Exception):
+    pass
